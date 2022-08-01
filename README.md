@@ -30,19 +30,23 @@
 
 ![](images/winner.png)
 
-
-
-
-
-
-
-
-
+-
+-
+-
+-
+-
+-
+-
+-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-
+-
+-
+-
 
 1. First Task to detect players is done by Image subtraction and morphological transformations.
 
-
+![](images/boundingbox.png)
 
 2. For movement detection, both for Red-Mode and Green-Mode (on legs), Optical Flow is used, where density is chosen according to the enviroment playing.
 
@@ -53,3 +57,5 @@
 
 
 4. Another schemes for playfulness is used, as overlapping Bounding Boxes, movement detection by Jaccard condition in Loser Mode etc..
+
+![](images/overlap.png)
