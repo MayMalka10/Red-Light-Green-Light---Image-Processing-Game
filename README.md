@@ -27,3 +27,5 @@
 ### During the time that the disqualified player leave, all other players need to stand still and not move! if one of them moving, another massage on the screen will appear demanding the player also to go out.
 
 ### 7. The player who cross the finish line - Win!
+
+![](images/winner.png)
