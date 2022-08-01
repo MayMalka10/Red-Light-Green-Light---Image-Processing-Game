@@ -20,7 +20,7 @@
 
 ![](images/redmode1.png)
 
-### 6. If one of the players move, on the screen there is a massage to the player that ones has to leave the game. (And a gun-shot sound)
+### 6. If one of the players move, Entering Loser-Mode: on the screen there is a massage to the player that ones has to leave the game. (And a gun-shot sound)
 
 ![](images/redmode2.png)
 
@@ -29,3 +29,27 @@
 ### 7. The player who cross the finish line - Win!
 
 ![](images/winner.png)
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1. First Task to detect players is done by Image subtraction and morphological transformations.
+
+
+
+2. For movement detection, both for Red-Mode and Green-Mode (on legs), Optical Flow is used, where density is chosen according to the enviroment playing.
+
+
+
+3. Line detection is used by Hough Transform.
+
+
+
+4. Another schemes for playfulness is used, as overlapping Bounding Boxes, movement detection by Jaccard condition in Loser Mode etc..
