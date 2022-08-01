@@ -7,4 +7,7 @@ How to play:
 
 2. The Next step is to take a clear background image of game area without participants.
 
+3. All participants enter the game area, and right leg needs to be marks for the detection of crossing the line.
+
+![](images/mark_shoe.png)
 
