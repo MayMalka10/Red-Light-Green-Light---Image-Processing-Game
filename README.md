@@ -7,7 +7,10 @@ How to play:
 
 2. The Next step is to take a clear background image of game area without participants.
 
-3. All participants enter the game area, and right leg needs to be marks for the detection of crossing the line.
+3. All participants enter the game area, and right leg needs to be mark for the detection of crossing the line. (And win!)
 
 ![](images/mark_shoe.png)
 
+4. After all legs has beebn marked, Entering Green-Mode where players can move towards the finish line. Green Screen with countdown clock can be seen on the screen alongside the distance of the shoe from the finish line.
+
+![](images/greenmode.png)
