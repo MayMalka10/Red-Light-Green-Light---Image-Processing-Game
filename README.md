@@ -50,11 +50,11 @@
 
 2. For movement detection, both for Red-Mode and Green-Mode (on legs), Optical Flow is used, where density is chosen according to the enviroment playing.
 
-
+![](images/opticalflow.png)
 
 3. Line detection is used by Hough Transform.
 
-
+![](images/hough.png)
 
 4. Another schemes for playfulness is used, as overlapping Bounding Boxes, movement detection by Jaccard condition in Loser Mode etc..
 
